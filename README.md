@@ -1,4 +1,4 @@
-# app
+# 尚品汇购物商城
 
 ## Project setup
 ```
