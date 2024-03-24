@@ -1,5 +1,7 @@
 # 尚品汇购物商城
 
+
+## 杰哥
 ## Project setup
 ```
 npm install
